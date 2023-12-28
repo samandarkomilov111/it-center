@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "name": "Javohir",
+      "age": 17,
+      "group": "Front End",
+      "socials": [
+        {
+          "telegram": "t.me/creater_man"
+        }
+      ]
+    },
+    {
+      "name": "Mustafo",
+      "age": 13,
+      "group": "Front End",
+      "socials": [
+        {
+          "telegram": "t.me/creater_man"
+        }
+      ]
+    },
+    {
+      "name": "Sammandar",
+      "age": 13,
+      "group": "Front End",
+      "socials": [
+        {
+          "telegram": "t.me/creater_man"
+        }
+      ]
+    },
+    {
+      "name": "Temurbek",
+      "age": 15,
+      "group": "Front End",
+      "socials": [
+        {
+          "telegram": "t.me/creater_man"
+        }
+      ]
+    },
+    {
+      "name": "Dostonbek",
+      "age": 17,
+      "group": "Front End",
+      "socials": [
+        {
+          "telegram": "t.me/creater_man"
+        }
+      ]
+    },
+    {
+      "name": "Jo'rabek",
+      "age": 18,
+      "group": "Front End",
+      "socials": [
+        {
+          "telegram": "t.me/creater_man"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "asdasd",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 337,
+      "name": "Hikmat",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 408,
+      "name": "asdas",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 875,
+      "name": "asdasd",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 710,
+      "name": "AC12G",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 52,
+      "name": "",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 579,
+      "name": "",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 200,
+      "name": "asdasd",
+      "age": 15,
+      "group": "Kompyuter Savodxonligi"
+    },
+    {
+      "id": 904,
+      "name": "hasanboy",
+      "age": 15,
+      "group": "Front End"
+    },
+    {
+      "id": 453,
+      "name": "husanboy ",
+      "age": 15,
+      "group": "Kompyuter Savodxonligi"
+    }
+  ]
+}
