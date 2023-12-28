@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import StudentCard from "./components/StudentCard";
 import FormCreate from "./components/FormCreate";
 import Loading from "./components/Loading";
@@ -11,7 +10,6 @@ function App() {
     queryKey: ["students"],
     queryFn: getStudents,
   });
-
   return (
     <main className="bg-gray-200 h-screen">
       <div className="container mx-auto">
@@ -29,7 +27,7 @@ function App() {
               <StudentCard key={index} student={student} />
             ))
           ) : (
-            <h2 className="text-center text-2xl">Studentlar mavjud emas</h2>
+            <h2 className="text-center text-2xl w-full">Studentlar mavjud emas</h2>
           )}
         </div>
       </div>

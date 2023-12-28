@@ -1,6 +1,6 @@
+import  PropTypes  from "prop-types";
 const tg =
   "https://static.vecteezy.com/system/resources/previews/026/127/328/non_2x/telegram-logo-telegram-icon-transparent-telegram-icon-rounded-free-png.png";
-  import { PropTypes } from "react";
   const StudentCard = ({ student }) => {
   return (
     <div className="shadow bg-gray-300 p-10 relative rounded w-[calc(33%_-_20px)] 2xl:w-[calc(25%_-_20px)]">
@@ -23,7 +23,7 @@ const tg =
     </div>
   );
 };
-StudentCard.ropTypes = {
-  student:PropTypes.object
+StudentCard.propTypes = {
+  student: PropTypes.object 
 }
 export default StudentCard;
